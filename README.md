@@ -1,5 +1,5 @@
 # IPU - iMOS AI Seminar Documentation
-このレポジトリでは、岩手県立i-MOS高度技術者養成講習会の資料をまとめている。
+このレポジトリでは、岩手県立大学i-MOS高度技術者養成講習会の資料をまとめている。
 
 ## インストール方法
 まず、Anaconda Individual Edition をダウンロードし、インストールしてください。
