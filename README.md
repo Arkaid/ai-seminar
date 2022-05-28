@@ -14,7 +14,7 @@ conda env create -f environment.yml
 次に、環境を選択し、jupyter notebookを起動し、各ノートブックを確認できる。
 
 ```
-conda activate ipu_ai_seminar
+conda activate ai-seminar
 jupyter notebook
 ```
 
