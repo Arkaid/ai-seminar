@@ -2,8 +2,9 @@
 このレポジトリでは、岩手県立大学i-MOS高度技術者養成講習会の資料をまとめている。
 
 ## インストール方法
-まず、Anaconda Individual Edition をダウンロードし、インストールしてください。
-URL: https://www.anaconda.com/
+まず、Anaconda をダウンロードし、インストールしてください。
+
+URL: https://www.anaconda.com/download
 
 その後、このプロジェクトにある環境ファイルを使い、開発環境を設定してください。まず、Anaconda Promptを開き、チェックアウト、およびダウンロードしたフォルダー上で以下のコマンドを打ち込んでください：
 
