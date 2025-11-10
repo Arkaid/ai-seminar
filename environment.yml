@@ -1,9 +1,9 @@
 name: ai-seminar
 dependencies:
-  - python=3.8.*
-  - notebook=6.4.*
-  - numpy=1.22.*
-  - matplotlib=3.5.*
-  - keras=2.4.*
-  - tensorflow=2.3.*
-  - pandas=1.4.*
+  - python=3.10.*
+  - notebook=7.4.*
+  - numpy=1.26.*
+  - matplotlib=3.10.*
+  - keras=2.10.*
+  - tensorflow=2.10.*
+  - pandas=2.3.*
