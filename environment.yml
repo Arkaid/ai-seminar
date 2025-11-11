@@ -1,6 +1,10 @@
 name: ai-seminar
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - python=3.10.*
+  - nomkl=1.0=h5ca1d4c_0
   - notebook=7.4.*
   - numpy=1.26.*
   - matplotlib=3.10.*
